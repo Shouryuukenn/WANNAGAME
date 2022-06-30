@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7cf6c6e0f39fd64f9ae143d5d691142
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ThrowingObject: {fileID: 1597498712953820076, guid: 65192eee7fa2e8f4f8a1b912cd12e5d2, type: 3}
+  - TargetObject: {fileID: 6720815266258742268, guid: dcc3e111fa2eb6d4c97d7d2e0552996d, type: 3}
+  - GameOver: {instanceID: 0}
+  - kiten: {fileID: 2149732285917108620, guid: 57db9489116484f47aa1a7b6ed4ce7e6, type: 3}
+  - mokuhyou: {fileID: 6720815266258742268, guid: dcc3e111fa2eb6d4c97d7d2e0552996d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
